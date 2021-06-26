@@ -1650,7 +1650,7 @@ textarea.form-item {
 }
 
 .text-upper {
-    text-transform: uppercase;
+    text-transform:capitalize;
 }
 
 .text-lead {
